@@ -4,7 +4,6 @@ import {
   Route,
   Link
 } from 'react-router-dom';
-
 import Home from './routes/home';
 import Article from './routes/article';
 import Author from './routes/author';
